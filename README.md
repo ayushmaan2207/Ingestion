@@ -32,8 +32,7 @@ A web-based integration tool that enables seamless bidirectional data transfer b
 
 - # Clone the repository
 ```bash
-git clone https://github.com/<your-username>/clickhouse-flatfile-ingestion-tool.git
-cd clickhouse-flatfile-ingestion-tool
+git clone https://github.com/ayushmaan2207/Ingestion.git
 ```
 
 - # Install backend dependencies
