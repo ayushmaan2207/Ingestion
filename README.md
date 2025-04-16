@@ -31,6 +31,7 @@ A web-based integration tool that enables seamless bidirectional data transfer b
 - # Clone the repository
 ```bash
 git clone https://github.com/ayushmaan2207/Ingestion.git
+cd Ingestion
 ```
 
 - # Install backend dependencies
