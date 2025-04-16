@@ -14,8 +14,6 @@ A web-based integration tool that enables seamless bidirectional data transfer b
 
 -  **Schema Discovery & Column Selection**
 
--  **Data Preview (first 100 records)**
-
 -  **Record Count Reporting**
 
 -  **Error Handling & User Feedback**
