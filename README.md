@@ -7,8 +7,8 @@ A web-based integration tool that enables seamless bidirectional data transfer b
 ## Features
 
 -  **Bidirectional Ingestion**:  
-  - ClickHouse ➝ Flat File  
-  - Flat File ➝ ClickHouse  
+  ~ ClickHouse ➝ Flat File  
+  ~ Flat File ➝ ClickHouse  
 
 -  **ClickHouse Authentication via JWT**
 
